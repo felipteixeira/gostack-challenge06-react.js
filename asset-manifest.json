@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.js": "/gostack-challenge06-react.js/static/js/main.41706a28.chunk.js",
+    "main.js.map": "/gostack-challenge06-react.js/static/js/main.41706a28.chunk.js.map",
+    "runtime-main.js": "/gostack-challenge06-react.js/static/js/runtime-main.3e0880e6.js",
+    "runtime-main.js.map": "/gostack-challenge06-react.js/static/js/runtime-main.3e0880e6.js.map",
+    "static/js/2.7dfd8cf1.chunk.js": "/gostack-challenge06-react.js/static/js/2.7dfd8cf1.chunk.js",
+    "static/js/2.7dfd8cf1.chunk.js.map": "/gostack-challenge06-react.js/static/js/2.7dfd8cf1.chunk.js.map",
+    "index.html": "/gostack-challenge06-react.js/index.html",
+    "precache-manifest.7c1b11e7ea6bdb8d26e302c70dc3d7cc.js": "/gostack-challenge06-react.js/precache-manifest.7c1b11e7ea6bdb8d26e302c70dc3d7cc.js",
+    "service-worker.js": "/gostack-challenge06-react.js/service-worker.js",
+    "static/js/2.7dfd8cf1.chunk.js.LICENSE.txt": "/gostack-challenge06-react.js/static/js/2.7dfd8cf1.chunk.js.LICENSE.txt",
+    "static/media/alert.svg": "/gostack-challenge06-react.js/static/media/alert.78a343ae.svg",
+    "static/media/income.svg": "/gostack-challenge06-react.js/static/media/income.df4567f0.svg",
+    "static/media/logo.svg": "/gostack-challenge06-react.js/static/media/logo.ce269cac.svg",
+    "static/media/outcome.svg": "/gostack-challenge06-react.js/static/media/outcome.bb31a5f3.svg",
+    "static/media/total.svg": "/gostack-challenge06-react.js/static/media/total.7f99c5ac.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3e0880e6.js",
+    "static/js/2.7dfd8cf1.chunk.js",
+    "static/js/main.41706a28.chunk.js"
+  ]
+}
