@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "31b97cf548176806acb1eb324e962aa6",
+    "revision": "5fa44e42578f0e817093cacfca72fb2a",
     "url": "/gostack-challenge06-react.js/index.html"
   },
   {
-    "revision": "c2388c9c5eb4bf1b174c",
-    "url": "/gostack-challenge06-react.js/static/js/2.7dfd8cf1.chunk.js"
+    "revision": "b96e0620ead9eccc6828",
+    "url": "/gostack-challenge06-react.js/static/js/2.3b3ee612.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/gostack-challenge06-react.js/static/js/2.7dfd8cf1.chunk.js.LICENSE.txt"
+    "url": "/gostack-challenge06-react.js/static/js/2.3b3ee612.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "66a5688d4c48a6bcbed4",
-    "url": "/gostack-challenge06-react.js/static/js/main.41706a28.chunk.js"
+    "revision": "29b3342cd55e95aed586",
+    "url": "/gostack-challenge06-react.js/static/js/main.49e466b6.chunk.js"
   },
   {
     "revision": "84bc727d0b2b2cf2d314",

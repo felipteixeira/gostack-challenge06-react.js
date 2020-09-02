@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/gostack-challenge06-react.js/precache-manifest.7c1b11e7ea6bdb8d26e302c70dc3d7cc.js"
+  "/gostack-challenge06-react.js/precache-manifest.cd1a6a286c0643758da734bfbfa746ac.js"
 );
 
 self.addEventListener('message', (event) => {
